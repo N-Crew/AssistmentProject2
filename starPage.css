@@ -1,0 +1,39 @@
+*
+{
+    font-family: Arial;
+}
+.class1
+{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 2vh;
+}
+div
+{
+    position: relative;
+    top: 7vh;
+    text-align: center;
+}
+a 
+{
+    color: white;
+    text-decoration: none;
+}
+.wrapper
+{
+    position: relative;
+    bottom: 40vh;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 60vw;
+    padding: 40px;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 8px 8px 8px 8px #8888;
+}
+.btn
+{
+    position: relative;
+    bottom: 7vh;
+}
